@@ -1,0 +1,19 @@
+node_modules/
+dist/
+
+# wa-agent runtime data
+.wa-agent/
+wa.db
+*.db-shm
+*.db-wal
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# env
+.env
+.env.*
